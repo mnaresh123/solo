@@ -4,4 +4,11 @@ hungry=input("are you hungry")
         print("eat pizza")
         print("eat burger")
     else:
+<<<<<<< HEAD
       
+=======
+        thirsty=input("are you thirsty?")
+                   if thirsty=="yes":
+                print("drink water") 
+          print("drink soda")
+>>>>>>> naresh
