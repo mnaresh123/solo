@@ -4,4 +4,4 @@ hungry=input("are you hungry")
         print("eat pizza")
         print("eat burger")
     else:
-          print("do homework")
+      
